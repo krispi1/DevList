@@ -66,3 +66,6 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 ### `yarn build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+
+### References
+[Multiple inputs in React](https://www.pluralsight.com/guides/handling-multiple-inputs-with-single-onchange-handler-react)

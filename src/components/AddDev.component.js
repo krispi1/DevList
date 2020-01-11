@@ -56,13 +56,13 @@ export default function DevForm() {
       stack: state.stack,
     };
 
-    const displayData = (formData) => {
+    /* const displayData = (formData) => {
       const formFields = document.getElementById("formFields");
       for (let key in state) {
         formFields.innerHTML += key + ' --> ' + state[key] + '<br/>'
       }
       console.log(formFields);
-    }
+    } */
 
     console.log("\ndata   -->", data);
 
@@ -70,7 +70,7 @@ export default function DevForm() {
     
     console.log("\nstate   -->", state);
 
-    displayData(state);
+    // displayData(state);
     
   } // handleSubmit
 

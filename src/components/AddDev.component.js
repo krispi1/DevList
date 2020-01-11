@@ -224,9 +224,7 @@ export default function DevForm() {
 
       <input type="submit" value="Submit" />
 
-      <div id="formFields">
-
-      </div>
+      <div id="formFields"></div>
 
     </form>
   ); // return
